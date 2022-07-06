@@ -9,21 +9,18 @@ body {
 }
 
 .top-one {
-    background-image: url(images/donation3.jpg);
+    background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
-    background-position: center;
-
+    height: 500px;
+    padding: 40px;
 }
-
 .first-one h1 {
     color: white;
     font-size: 50px;
     font-weight: 900 bold;
     text-align: center;
-    padding-top: 100px;
-
+    padding-top: 80px;
 }
 
 .first-one p {
@@ -31,16 +28,19 @@ body {
     text-align: center;
     padding-left: 22%;
     padding-right: 22%;
+    padding-bottom: 20px;
+    font-weight: 550;
+    font-size: 18px;
 }
 
-.donate{
+.donate {
     text-decoration: none;
     color: white;
     text-align: center;
     padding: 10px 20px;
     background-color: tomato;
-    border-radius: 5px;
-    
+    border-radius: 8px;
+
 
 }
 
@@ -54,16 +54,16 @@ body {
     padding-right: 22%;
 }
 
-
-.money-amount{
+.money-amount {
     display: flex;
-    width: 30%;
+    width: 25%;
     text-align: center;
     color: gray;
     font-size: 25px;
     font-weight: 800;
 }
-hr{
+
+hr {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
