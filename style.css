@@ -2,9 +2,11 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+
 .first-one {
     text-align: center;
 }
+
 .top-one {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -12,6 +14,7 @@ body {
     height: 500px;
     padding: 40px;
 }
+
 .first-one h1 {
     color: white;
     font-size: 50px;
@@ -19,6 +22,7 @@ body {
     text-align: center;
     padding-top: 80px;
 }
+
 .first-one p {
     color: white;
     text-align: center;
@@ -28,6 +32,7 @@ body {
     font-weight: 550;
     font-size: 18px;
 }
+
 .donate {
     text-decoration: none;
     color: white;
@@ -36,24 +41,29 @@ body {
     background-color: tomato;
     border-radius: 8px;
 }
+
 .sceond-one {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
+
 .sceond-one p {
     padding-left: 22%;
     padding-right: 22%;
 }
+
 .sceond-one h1 {
     font-size: 40px;
     font-weight: 900;
 }
+
 .money-amount {
     display: flex;
     justify-content: center;
     margin-top: 20px;
 }
-.donat-box{
+
+.donat-box {
     background-color: rgb(245, 245, 245);
     color: rgb(112, 112, 112);
     font-size: 25px;
@@ -64,14 +74,86 @@ body {
     margin: 20px;
     border-radius: 5px;
 }
-.sec-box{
+
+.sec-box {
     border: 2px solid rgb(255, 113, 113, 0.8);
     background-color: rgb(254, 200, 200, 0.5);
     color: rgb(255, 70, 70);
 }
+
 hr {
     text-decoration: none;
     margin-top: 30px;
     width: 50%;
     margin-bottom: 25px;
+}
+
+.donate-today {
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+
+.donate-today h1 {
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.third-one {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    gap: 20px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.food {
+    background-color: lightblue;
+    width: 31%;
+    border-radius: 5px;
+}
+
+.shelter {
+    background-color: lightpink;
+    width: 31%;
+    border-radius: 5px;
+}
+
+.education {
+    background-color: rgb(204, 244, 123);
+    width: 31%;
+    border-radius: 5px;
+}
+
+.content-h {
+    padding-left: 4%;
+    padding-top: 35%;
+
+}
+
+.content-p {
+    padding-left: 4%;
+    padding-bottom: 3%;
+    padding-right: 3%;
+}
+
+#img-1 {
+    background-image: url(icons/food.png);
+    background-repeat: no-repeat;
+    background-position: 4% 20%;
+}
+
+#img-2 {
+    background-image: url(icons/shelter.png);
+    background-repeat: no-repeat;
+    background-position: 4% 20%;
+}
+
+#img-3 {
+    background-image: url(icons/Frame-1.png);
+    background-repeat: no-repeat;
+    background-position: 4% 20%;
 }
