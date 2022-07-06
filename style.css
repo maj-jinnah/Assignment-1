@@ -1,13 +1,10 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
-
 }
-
 .first-one {
     text-align: center;
 }
-
 .top-one {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -22,7 +19,6 @@ body {
     text-align: center;
     padding-top: 80px;
 }
-
 .first-one p {
     color: white;
     text-align: center;
@@ -32,7 +28,6 @@ body {
     font-weight: 550;
     font-size: 18px;
 }
-
 .donate {
     text-decoration: none;
     color: white;
@@ -40,31 +35,43 @@ body {
     padding: 10px 20px;
     background-color: tomato;
     border-radius: 8px;
-
-
 }
-
 .sceond-one {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
-
 .sceond-one p {
     padding-left: 22%;
     padding-right: 22%;
 }
-
+.sceond-one h1 {
+    font-size: 40px;
+    font-weight: 900;
+}
 .money-amount {
     display: flex;
-    width: 25%;
-    text-align: center;
-    color: gray;
+    justify-content: center;
+    margin-top: 20px;
+}
+.donat-box{
+    background-color: rgb(245, 245, 245);
+    color: rgb(112, 112, 112);
     font-size: 25px;
     font-weight: 800;
+    text-align: center;
+    width: 120px;
+    padding: 25px 5px;
+    margin: 20px;
+    border-radius: 5px;
 }
-
+.sec-box{
+    border: 2px solid rgb(255, 113, 113, 0.8);
+    background-color: rgb(254, 200, 200, 0.5);
+    color: rgb(255, 70, 70);
+}
 hr {
+    text-decoration: none;
+    margin-top: 30px;
     width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-bottom: 25px;
 }
