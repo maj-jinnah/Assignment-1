@@ -52,16 +52,16 @@ body {
     padding-right: 22%;
 }
 
-.sceond-one input{
+.sceond-one input {
     margin-top: 20px;
     border: none;
-    background-color: rgb(246, 242, 242);
+    background-color: rgb(249, 243, 243);
     outline: none;
     border-radius: 8px;
     height: 35px;
     width: 300px;
-     font-size: 16px;
-     text-align: center;
+    font-size: 16px;
+    text-align: center;
 }
 
 .sceond-one h1 {
@@ -97,7 +97,7 @@ hr {
     text-decoration: none;
     margin-top: 10px;
     width: 50%;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .donate-today {
