@@ -52,6 +52,18 @@ body {
     padding-right: 22%;
 }
 
+.sceond-one input{
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(246, 242, 242);
+    outline: none;
+    border-radius: 8px;
+    height: 35px;
+    width: 300px;
+     font-size: 16px;
+     text-align: center;
+}
+
 .sceond-one h1 {
     font-size: 40px;
     font-weight: 900;
@@ -83,7 +95,7 @@ body {
 
 hr {
     text-decoration: none;
-    margin-top: 30px;
+    margin-top: 10px;
     width: 50%;
     margin-bottom: 25px;
 }
@@ -197,9 +209,6 @@ hr {
     font-weight: 800;
 }
 
-
-
-
 #first {
     background-color: rgb(254, 254, 197);
     height: 200px;
@@ -246,126 +255,12 @@ hr {
 #last-h {
     font-size: 30px;
     font-weight: 800;
-    color: brown;
+    color: rgb(177, 1, 1);
     padding-top: 45px;
     padding-bottom: 20px;
 }
 
 #last-p {
     color: white;
+    padding-top: 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-#first {
-    width: 800px;
-    height: 250px;
-    background: rgb(250, 250, 179);
-    overflow: hidden;
-    border-radius: 10px;
-    margin-left: 300px;
-    margin-bottom: 100px;
-}
-#first #second{
-       position: relative;
-       width: 50%;
-       height: 50%;
-       margin: auto;
-       margin-top: 12%;
-       align-items: center;
-}
-#inp-link{
-        padding-left: 50px;
-}
-.link{
-        background-color: rgb(218, 218, 218);
-        outline: gray;
-        border: 1px solid gray;
-        border-radius: 2px;
-        size: 50px;
-        gap: 0;
-        height:30px;
-        font-size:14.5pt;
-
-}
-
-
-*/
-
-/*
-
-
-.container{
-    background-color: rgb(245, 245, 245, 0.7);
-    height: 325px;
-    width: 500px;
-    margin-left: 10px;
-    margin-bottom: 400px;
-    text-align: center;
-    padding-top: 10px;
-    padding-left: 4px;
-}
-
-
-
-
-*/
-
-/*
-
-#fourth-one {
-    background-image: url(images/donation9.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 900px;
-}
-
-.help-them {
-    background-color: rgb(245, 245, 245, 0.7);
-    width: 50%;
-    height: 325px;
-    margin-left: 50px;
-    margin-top: 10px;
-    border-radius: 10px;
-    text-align: center;
-    padding-top: 5px;
-    background-position: left center;
-}
-
-.help-them h1 {
-    font-size: 30px;
-    font-weight: 800;
-}
-
-#para-2 {
-    margin-bottom: 35px;
-}
-
-*/
-
-/*
-
-input{
-    margin-top: 50px;
-    margin-bottom: 100px;
-    border: none;
-    background-color: transparent;
-    resize: none;
-    outline: none;
- }
-*/
